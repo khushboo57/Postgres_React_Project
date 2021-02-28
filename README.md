@@ -7,6 +7,7 @@ Make a connection to postgres:
     1. In Server.js, provide the Postgres DB Credentials.
     2. Add Main.js inside controllers folder.
 
-Then run the commands:
-npm install
-npm run
+## Step 2:
+Run the commands:
+    1. npm install
+    2. npm run
