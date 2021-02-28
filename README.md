@@ -11,3 +11,5 @@ Make a connection to postgres:
 Run the commands:
     1. npm install
     2. npm run
+
+You can check your URL in Postman to check the response.
